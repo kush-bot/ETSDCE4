@@ -1,0 +1,50 @@
+.home_page{
+    width: 100%;
+    height: 350vh;
+}
+
+.home_page1{
+    background: linear-gradient(rgba(10,10,10,.1),rgba(4,7,30,0.7)),url('./ssahe.jpeg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 60vh;
+}
+
+.navbar-nav{
+    background: transparent!important;
+}
+
+.navbar-nav a{
+    color: black;
+    font-size: 20px;
+    padding-right: 20px!important;
+    top:0;
+
+}
+.dropdown-menu{
+    color: red;
+}
+.content_confs h3{
+    margin-left: 38%;
+    width:18%;
+    font-size: 15px;
+    padding: 15px;
+    padding-left: 30px;
+    border-radius: 15px;
+    color: black;
+    background-color: rgb(166, 166, 235);
+    margin-top: 5%!important;
+  
+    text-align: center;
+}
+
+.content_confs ul li{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 4%;
+    list-style: none;
+}
+
+.spk{
+    color: rgb(214, 10, 10);
+}
